@@ -1,0 +1,12 @@
+    9  cp notes.txt notes_backup.txt
+   10  mv project_plan.txt final_project_plan.txt
+   11  ls
+   12  chmod u+rwx notes.txt
+   13  ls -l
+   14  rm notes_backup.txt
+   15  rm final_project.plan.txt
+   16  ls
+   17  history
+   18  history | tail -n 10 > submission.txt
+Name: Jesse Rimon | ID: ytt6hb
+My first command line note.
